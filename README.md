@@ -41,7 +41,7 @@ echo "TAVILY_API_KEY=your_key_here" >> .env
 uvicorn main:app --reload
 The API will be accessible at http://127.0.0.1:8000/docs via Swagger UI.
 
-**2. Initialize the React Dashboard**
+2. Initialize the React Dashboard
 # Navigate to the frontend directory
 cd frontend
 
@@ -52,7 +52,7 @@ npm install
 npm run dev
 The Dashboard will be live at http://localhost:5173/
 
-🎯 **Strategic Objective**
+🎯 Strategic Objective
 Developed exclusively for Caprae Capital. This prototype demonstrates the immediate value of integrating applied AI agents, responsive modern UI engineering, and automated workflows into high-stakes financial intelligence.
 
-Developed by **Muhammad Ahmad**
+Developed by Muhammad Ahmad
