@@ -1,4 +1,4 @@
-# 🐐 Caprae Deal-Scout Platform
+# Caprae Deal-Scout Platform
 **Enterprise-Grade Autonomous M&A Intelligence Engine**
 
 Caprae Deal-Scout is a high-performance, agentic workflow system engineered specifically for the Mergers & Acquisitions (M&A) deal-flow process. Designed to streamline target evaluation, it deploys a multi-agent AI architecture to autonomously scrape target data, analyze market positioning, and synthesize executive-ready investment memos in real-time.
